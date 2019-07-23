@@ -1,2 +1,2 @@
 # adata
-An R data package containing physiological/productivity of animals
+R data package for animal science.

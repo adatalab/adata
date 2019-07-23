@@ -1,0 +1,10 @@
+Package: adata
+Type: Package
+Title: Data sets for animal science
+Version: 0.1.0
+Authors@R: person("Youngjun", "Na", email = "ruminoreticulum@gmail.com", role = c("aut", "cre"))
+Description: adata package for data sets for animal sci.
+License: GLP-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
